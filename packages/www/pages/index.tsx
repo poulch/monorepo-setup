@@ -11,6 +11,8 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <a href='www.gggle.pl'>TEST</a>
+        <img src='/' alt='sdds' />
         <h1 className={styles.title}>
           Welcome to
           <a href='https://nextjs.org'>Next.js!</a>
